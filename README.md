@@ -33,6 +33,6 @@ git push origin feature-branch
 - Submit a pull request
 
 # Access the hosted web
-Here is the link to view the project [The Moon](https://the-moon.onrender.com/)
+- Here is the link to view the project [The Moon](https://the-moon.onrender.com/)
 **Enjoy exploring the CSS art The Moon! For any questions or contributions, please open an issue or pull request on the repository.**
 Thank you for checking out the project!
